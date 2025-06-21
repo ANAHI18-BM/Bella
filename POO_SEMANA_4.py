@@ -32,3 +32,4 @@ cliente1 = Cliente("Bella")
 cliente1.agregar_al_carrito(p1)
 cliente1.agregar_al_carrito(p2)
 cliente1.ver_carrito()
+
