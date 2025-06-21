@@ -1,3 +1,4 @@
 Ejecucion del codigo imagen
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/bd9417fe-c59d-4553-9abf-34aa92250833)
+
 
