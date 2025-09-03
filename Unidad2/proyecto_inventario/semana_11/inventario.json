@@ -1,0 +1,14 @@
+{
+    "001": {
+        "ID": "001",
+        "Nombre": "blusas",
+        "Cantidad": 3,
+        "Precio": 10.0
+    },
+    "002": {
+        "ID": "002",
+        "Nombre": "shorts",
+        "Cantidad": 1,
+        "Precio": 12.0
+    }
+}
